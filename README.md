@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonusagar01" alt="sonusagar01" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Web-Development**
-
 - 🌱 I’m currently learning **Full Stack Web-Development**
 
 - 👯 I’m looking to collaborate on **Frontend Web-development projects**
